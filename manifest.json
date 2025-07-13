@@ -1,0 +1,15 @@
+{
+  "name": "GFL Divine OS Web 22",
+  "short_name": "GFL OS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111111",
+  "description": "The divine frontend for the Galactic Federation Light OS.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
